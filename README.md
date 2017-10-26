@@ -4,7 +4,7 @@
 
 
 适用案例用于热门标签，如图：
-![image][https://github.com/corgi7donkey/viewlibrary/blob/master/src/main/res/drawable/img1.png]
+![image](https://github.com/corgi7donkey/viewlibrary/blob/master/src/main/res/drawable/img1.png)
 
 代码：
 ```xml
